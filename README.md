@@ -1,4 +1,4 @@
-# Party-Animation
+:dizzy: # Party-Animation :dizzy:
 
 Note: If you keep display: block; then it will stay. If you keep display: none; then after 1 second, it will disappear :)
 
