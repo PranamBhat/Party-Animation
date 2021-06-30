@@ -1,12 +1,12 @@
 # Party-Animation
 
-:dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy:  :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles:
+:dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy:  :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: 
 
 
 Note: If you keep display: block; then it will stay. If you keep display: none; then after 1 second, it will disappear :) sparkles :sparkles:
 
 
-:dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy:  :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles::dizzy: :sparkles: :dizzy: :sparkles:
+:dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy:  :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy:  :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles: :dizzy: :sparkles::dizzy: :sparkles: :dizzy: 
 
 
 ## From Developer
